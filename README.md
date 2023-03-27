@@ -2,16 +2,13 @@
 
 ![descrição da imagem](img/office-365-logo.jpg)
 
-# Tópicos
-
-# Descrição do Projeto
+# Descrição do Curso
 > Este é um curso fechado ministrado para coloaboradores da CVM. Será realizado nas datas abaixo: 
  
 - 1º aula – 27 de março (segunda-feira) - 14h às 18h 
 - 2º aula – 03 de abril (segunda-feira) - 14h às 18h
 - 3º aula – 10 de abril (segunda-feira) - 14h às 18h
 - 4º aula – 17 de abril (segunda-feira) - 14h às 18h 
-
 
 # Status do Curso
 
@@ -31,7 +28,6 @@
 **Apresente as instruções necessárias para abrir e executar o projeto**
 
 > Você pode acessar os arquivos do projeto clicando aqui.
-
 
 # ✔️Técnicas e tecnologias utilizadas
 - `Office 365`
